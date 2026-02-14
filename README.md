@@ -1,7 +1,6 @@
 ### Hi there 👋
 - 📫 How to reach me:
   - 256javiervillalba@gmail.com
-  - [Linkedin](https://www.linkedin.com/in/256javiervillalba)
   - [X](https://x.com/NelsonChess666)
 
 <!--
